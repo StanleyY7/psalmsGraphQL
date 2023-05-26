@@ -1,0 +1,16 @@
+{
+  "name": "psalmsgraphql",
+  "version": "1.0.0",
+  "description": "A GraphQL wrapper/version of my psalms api, so that users are able to make requests via GraphQL if they prefer it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.7.0",
+    "apollo-server": "^3.12.0"
+  }
+}
